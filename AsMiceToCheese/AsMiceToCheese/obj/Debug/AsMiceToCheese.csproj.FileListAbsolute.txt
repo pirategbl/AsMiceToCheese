@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\AsMiceToCheese\AsMiceToCheese\bin\Debug\AsMiceToCheese.exe.config
+C:\Users\gabri\source\repos\AsMiceToCheese\AsMiceToCheese\bin\Debug\AsMiceToCheese.exe
+C:\Users\gabri\source\repos\AsMiceToCheese\AsMiceToCheese\bin\Debug\AsMiceToCheese.pdb
+C:\Users\gabri\source\repos\AsMiceToCheese\AsMiceToCheese\obj\Debug\AsMiceToCheese.csprojResolveAssemblyReference.cache
+C:\Users\gabri\source\repos\AsMiceToCheese\AsMiceToCheese\obj\Debug\AsMiceToCheese.Form1.resources
+C:\Users\gabri\source\repos\AsMiceToCheese\AsMiceToCheese\obj\Debug\AsMiceToCheese.Properties.Resources.resources
+C:\Users\gabri\source\repos\AsMiceToCheese\AsMiceToCheese\obj\Debug\AsMiceToCheese.csproj.GenerateResource.Cache
+C:\Users\gabri\source\repos\AsMiceToCheese\AsMiceToCheese\obj\Debug\AsMiceToCheese.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\AsMiceToCheese\AsMiceToCheese\obj\Debug\AsMiceToCheese.exe
+C:\Users\gabri\source\repos\AsMiceToCheese\AsMiceToCheese\obj\Debug\AsMiceToCheese.pdb
